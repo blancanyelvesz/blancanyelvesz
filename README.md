@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🤝 Collaborating with the [**Parallel Meaning Bank**](https://pmb.let.rug.nl/) and the [**GOLEM Lab**](https://golemlab.eu/about/).
 
-- 💡 My interests lie at the intersection of linguistics 💬, mathematics 🧮, and cognitive science 🧠.  This includes machine learning 🤖, computational modeling 📊 and their many applications accross disciplines!
+- 💡 My interests lie at the intersection of linguistics 💬, mathematics 🧮, and cognitive science 🧠.  This includes machine learning, computational modeling and their many applications accross disciplines!
 
 - 📫 You can find me on [LinkedIn](www.linkedin.com/in/blanca-goncalves)
 
