@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-- 🔬 Currently developing my research at the [**Cognitive Neuroscience Center**](https://umcgresearch.org/w/cognitive-neuroscience-center) 🧠 of the **University Medical Center Groningen** 🏥, and collaborating with the [**Speech Biosignal Processing Lab**](https://aburlab.web.rug.nl/) 🗣️ at the **University of Groningen**.
+- 🔬 Currently developing my research at the [**Cognitive Neuroscience Center**](https://umcgresearch.org/w/cognitive-neuroscience-center) 🧠 of the **University Medical Center Groningen** 🏥, and the [**Speech Biosignal Processing Lab**](https://aburlab.web.rug.nl/) 🗣️ at the **University of Groningen**.
   
 - 🎓 Pursuing a **European Master’s in Language and Communication Technologies**, a double degree that includes:
   - 🇮🇹 M.Sc. in **Cognitive Science** at **CIMeC – University of Trento, Italy**
