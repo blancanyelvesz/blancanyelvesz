@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 - 🎓 Pursuing a **European Master’s in Language and Communication Technologies**, a double degree that includes:
   - 🇮🇹 M.Sc. in **Cognitive Science** at **CIMeC – University of Trento, Italy**
-  - 🇳🇱 M.Sc. in **Natural Language Processing** at **CLCG – University of Groningen, Netherlands**
+  - 🇳🇱 M.Sc. in **ReMa Linguistics: Natural Language Processing** at **CLCG – University of Groningen, Netherlands**
 
 - 🤝 Collaborating with the [**Parallel Meaning Bank**](https://pmb.let.rug.nl/) and the [**GOLEM Lab**](https://golemlab.eu/about/).
 
