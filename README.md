@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💡 My interests lie at the intersection of linguistics 💬, mathematics 🧮, and cognitive science 🧠.  This includes machine learning, computational modeling and their many applications across disciplines!
 
-- 📫 You can find me on [LinkedIn](www.linkedin.com/in/blanca-goncalves)
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/blanca-goncalves)
 
 - 🌈 Outside of work, I enjoy exploring art 🎨, puzzles 🧩, trains 🚆, and all kinds of music 🎶.
 
