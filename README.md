@@ -23,7 +23,9 @@ Here are some ideas to get you started:
   - 🇮🇹 M.Sc. in **Cognitive Science** at **CIMeC – University of Trento, Italy**
   - 🇳🇱 M.Sc. in **ReMa Linguistics: Natural Language Processing** at **CLCG – University of Groningen, Netherlands**
 
-- 🤝 Collaborating with the [**Parallel Meaning Bank**](https://pmb.let.rug.nl/) and the [**GOLEM Lab**](https://golemlab.eu/about/).
+- 🤝 Collaborating with the [**GOLEM Lab**](https://golemlab.eu/about/)
+<!-- [**Parallel Meaning Bank**](https://pmb.let.rug.nl/) and the [**GOLEM Lab**](https://golemlab.eu/about/).
+-->
 
 - 💡 My interests lie at the intersection of linguistics 💬, mathematics 🧮, and cognitive science 🧠.  This includes machine learning, computational modeling and their many applications across disciplines!
 
