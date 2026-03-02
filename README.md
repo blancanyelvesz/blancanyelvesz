@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔬 Currently collaborating with researchers from the Department of Communication and Cognition in a cross-linguistic project on the use of demonstratives.
   
 - 🎓 Computational linguist and cognitive scientist, obtained a double degree in Cognitive Science and Natural Language Processing through the European Joint Master’s Programme in Language and Communication Technologies.
-- 
+
 - 💡 My interests lie at the intersection of linguistics 💬, mathematics 🧮, and cognitive science 🧠.  This includes machine learning, computational modeling and their many applications across disciplines!
 
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/blanca-goncalves)
